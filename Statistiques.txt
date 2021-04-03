@@ -1,0 +1,6 @@
+#score debutant :
+00 secondes,00 secondes,00 secondes
+#score intermediaire :
+00 secondes,00 secondes,00 secondes
+#score avancée :
+00 secondes,00 secondes,00 secondes

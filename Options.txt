@@ -1,0 +1,10 @@
+#nombre de cases en longeur (x) :
+9
+#nombre de cases en largeur (y) :
+9
+#nombre de mines :
+10
+#taille des carre :
+21
+#mode de difficulte = ligne pour les stastistiques : !!! ne pas modifier
+1
